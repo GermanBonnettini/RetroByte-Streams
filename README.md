@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="RetroByte Streams — full-stack engineering showcase" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=61DAFB&amp;labelColor=0B1625" alt="React 18" />
   <img src="https://img.shields.io/badge/TypeScript-typed-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white&amp;labelColor=0B1625" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Supabase-backend-3ECF8E?style=flat-square&amp;logo=supabase&amp;labelColor=0B1625" alt="Supabase backend" />
