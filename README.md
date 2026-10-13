@@ -1,3 +1,6 @@
+
+
+# RetroByte Streams 🎮
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=61DAFB&amp;labelColor=0B1625" alt="React 18" />
   <img src="https://img.shields.io/badge/TypeScript-typed-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white&amp;labelColor=0B1625" alt="TypeScript" />
@@ -14,25 +17,13 @@
   <a href="#-technical-highlights">Technical highlights</a>
 </p>
 
-# RetroByte Streams 🎮
-
-A deployed web application that brings Twitch, YouTube and Kick discovery together with an international events calendar, personal favorites and embedded playback.
+An All in One Web Application that brings Twitch, YouTube and Kick discovery together with an international events calendar, personal favorites and embedded playback.
 
 This project demonstrates end-to-end web engineering: a custom responsive React interface, typed application logic, server-side API orchestration, PostgreSQL access policies, account flows and automated browser testing.
 
 ## 📸 App preview
 
 ![Desktop interface with the custom retro console](assets/desktop.png)
-
-| 🔎 Unified search | 🗓️ Event calendar |
-| --- | --- |
-| ![Search results inside the console](assets/search.png) | ![Event cards and calendar actions](assets/calendar.png) |
-
-| 📱 Responsive layout | 🔐 Account interface |
-| --- | --- |
-| <img src="assets/mobile.png" alt="Mobile interface at a 390 pixel viewport" width="270" /> | <img src="assets/account.png" alt="Localized sign-in dialog" width="430" /> |
-
-*Captured from the implemented UI in a local preview with sample search results and calendar entries. External services were mocked or blocked; no personal account data is shown. The mobile image is a browser viewport preview.*
 
 ## ✨ Main capabilities
 
@@ -61,6 +52,16 @@ This project demonstrates end-to-end web engineering: a custom responsive React 
 | Web APIs | AbortController, IntersectionObserver, Notifications, Clipboard, Web Share and localStorage |
 | Quality | Playwright, Node.js test runner, TypeScript compiler, ESLint |
 | Delivery | Git, GitHub, Netlify, npm lockfile and environment configuration |
+
+| 🔎 Unified search | 🗓️ Event calendar |
+| --- | --- |
+| ![Search results inside the console](assets/search.png) | ![Event cards and calendar actions](assets/calendar.png) |
+
+| 📱 Responsive layout | 🔐 Account interface |
+| --- | --- |
+| <img src="assets/mobile.png" alt="Mobile interface at a 390 pixel viewport" width="270" /> | <img src="assets/account.png" alt="Localized sign-in dialog" width="430" /> |
+
+*Captured from the implemented UI in a local preview with sample search results and calendar entries. External services were mocked or blocked; no personal account data is shown. The mobile image is a browser viewport preview.*
 
 ## 🧩 Architecture
 
@@ -161,6 +162,6 @@ Provider embeds retain their own playback, cookie and advertising rules. Alert m
 
 **German Bonnettini · Mate Code Studio**
 
-[GitHub](https://github.com/MateCodeStudio) · [Email](mailto:germanbonnettini@yahoo.com.ar)
+[Email](mailto:germanbonnettini@yahoo.com.ar)
 
 Available to discuss the architecture, implementation decisions and a technical walkthrough of the project.
