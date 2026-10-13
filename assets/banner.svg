@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340" role="img" aria-labelledby="title desc">
+<title id="title">RetroByte Streams — Full-stack engineering showcase</title>
+<desc id="desc">Dark navy banner with cyan and violet accents, highlighting React, TypeScript and Supabase.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071521"/><stop offset="1" stop-color="#191431"/></linearGradient><linearGradient id="line"><stop stop-color="#55e5ef"/><stop offset="1" stop-color="#a98aff"/></linearGradient></defs>
+<rect width="1400" height="340" rx="22" fill="url(#bg)"/>
+<path d="M0 290H1400M0 250H1400M1080 0V340M1150 0V340M1220 0V340M1290 0V340" stroke="#284059" opacity=".35"/>
+<rect x="60" y="54" width="6" height="225" rx="3" fill="url(#line)"/>
+<text x="92" y="81" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#55e5ef">ENGINEERING PORTFOLIO</text>
+<text x="88" y="158" font-family="Segoe UI,Arial,sans-serif" font-size="65" font-weight="750" fill="#f5f7ff">RetroByte Streams</text>
+<text x="92" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#b6c8db">A responsive interface. Multiple APIs. One cohesive experience.</text>
+<text x="92" y="266" font-family="Consolas,monospace" font-size="18" fill="#7ce9f0">REACT   /   TYPESCRIPT   /   SUPABASE   /   POSTGRESQL</text>
+<rect x="1120" y="90" width="200" height="130" rx="22" fill="#101f32" stroke="#a98aff" stroke-width="2"/>
+<rect x="1142" y="112" width="156" height="70" rx="8" fill="#08121e" stroke="#3c6e82"/>
+<path d="m1180 135-12 12 12 12m40-24 12 12-12 12m-15-28-11 32" fill="none" stroke="#55e5ef" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1272" cy="201" r="5" fill="#a98aff"/><circle cx="1252" cy="201" r="5" fill="#55e5ef"/>
+</svg>
